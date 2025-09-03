@@ -2,10 +2,7 @@
 ### Live Demo
 https://invoice-generator-react.netlify.app/
 
-### Screenshots
-<img src="https://i.imgur.com/wRetnxk.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/AZChaei.png" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://i.imgur.com/Bz3K3DE.png" style="max-width: 100px; width: 100%; height: auto;">
+
 
 ### Installation
 
@@ -25,5 +22,6 @@ npm start / npm run build
 - [x] Calculate Tax and Discounts
 
 - [ ] Store invoices in Firebase DB
+
 
 
